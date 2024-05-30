@@ -2,7 +2,7 @@
 
 Oi! Sou Henrique Passos, estudante de Engenharia da Computação no CIn/UFPE
 
-#### Minhas Redes:
+### Minhas Redes:
 
 <div>
     <a href="youtube.com/HenriquePassos">
