@@ -6,11 +6,15 @@ Oi! Sou Henrique Passos, estudante de Engenharia da Computação no CIn/UFPE
 
 <div>
     <a href="youtube.com/HenriquePassos">
-         <img align="center" alt="Instagram" height="45" width="215" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-9.png" />
+         <img align="center" alt="Instagram" height="45" width="195" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-9.png" />
      </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/henriquea_passos/">
-        <img align="center" alt="Instagram" height="85" width="85" style="margin: 100px/;" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
+        <img align="center" alt="Instagram" height="75" width="75" style="margin: 100px/;" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="www.linkedin.com/in/henriquea-passos">
+        <img align="center" alt="Likedin" height="75" width="75" style="margin: 100px/;" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png"/>
     </a>
  </div>
  <br><br>
