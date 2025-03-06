@@ -2,6 +2,8 @@
 
 Oi! Sou Henrique Passos, estudante de Engenharia da Computação no CIn/UFPE
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-apassos&layout=donut&theme=transparent)
+
 ### Minhas Redes:
 
 <div>
@@ -17,9 +19,6 @@ Oi! Sou Henrique Passos, estudante de Engenharia da Computação no CIn/UFPE
         <img align="center" alt="Likedin" height="100" width="100" style="margin: 125px/;" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png"/>
     </a>
  </div>
- <br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-apassos&layout=donut-vertical&theme=gradient)
 
 <!--
 **Henrique-apassos/Henrique-apassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
