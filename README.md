@@ -12,7 +12,7 @@ Oi! Sou Henrique Passos, estudante de Engenharia da Computação no CIn/UFPE
      </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/henriquea_passos/">
-        <img align="center" alt="Instagram" height="100" width="100" style="margin: 125px/;" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
+        <img align="center" alt="Instagram" height="150" width="150" style="margin: 125px/;" src="https://static.vecteezy.com/system/resources/previews/018/930/692/original/instagram-logo-instagram-icon-transparent-free-png.png" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/henriquea-passos/">
