@@ -2,6 +2,7 @@
 
 Oi! Sou Henrique Passos, estudante de Engenharia da Computação no CIn/UFPE
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-apassos&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Minhas Redes:
 
