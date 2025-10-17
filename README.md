@@ -7,7 +7,7 @@ Oi! Sou Henrique Passos, estudante de Engenharia da Computação no CIn/UFPE
 ### Minhas Redes:
 
 <div>
-    <a href="youtube.com/HenriquePassos">
+    <a href="https://www.youtube.com/@HenriquePassos">
          <img align="center" alt="YouTube" height="125" width="125" src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" />
      </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
